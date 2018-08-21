@@ -9,6 +9,7 @@ reads data from S.USV ( http://www.s-usv.de ) like version, input voltage, batte
 usage example:
 
 #!/usr/bin/env python
+
 from SUSV import SUSV
 
 susv = SUSV()
